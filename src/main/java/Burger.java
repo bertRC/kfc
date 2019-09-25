@@ -4,4 +4,10 @@ public class Burger {
     String avatarUrl;
     int price;
     boolean canBeOrdered;
+    int weight;
+    String description;
+    int kiloCalories;
+    double protein;
+    double fat;
+    double carbohydrate;
 }
